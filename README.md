@@ -1,3 +1,3 @@
 - 👋 Ola, eu sou @MeteOnbala
-- sou um Estudante de Engenharia Elétrica e quero aprender a programar maquinas,
+- sou um Estudante de Engenharia Elétrica do IFPA e quero aprender a programar maquinas,
 - Quero aprender a usar o autocad, python e C,C++

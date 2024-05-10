@@ -1,0 +1,2 @@
+- 👋 Ola, eu sou @MeteOnbala
+- sou um Estudante de Engenharia Elétrica e quero aprender a programar maquinas

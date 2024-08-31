@@ -1,3 +1,11 @@
 - 👋 Ola, eu sou @MeteOnbala
-- sou um Estudante de Engenharia Elétrica do IFPA e quero aprender a programar maquinas,
-- Quero aprender a usar o autocad, python e C,C++
+-## Sobre Mim
+- 🌱 Atualmente aprendendo: HTML5
+- 💬 Pergunte-me sobre: Python
+- 📫 Como me encontrar: https://www.linkedin.com/in/gustag7999/
+
+## Minhas Habilidades
+- Python 
+
+## Estatísticas do GitHub
+!Anurag's GitHub stats

@@ -1,5 +1,5 @@
-- ### Olá! eu sou @MeteOnbala 👋
-- ## Sobre Mim 
+ ### Olá! eu sou @MeteOnbala 👋
+ ## Sobre Mim 
 - 🌱 Atualmente aprendendo: HTML5, Java, CSS e JavaScript
 - 🏫 Sou estudante de Sistemas de Informação na UFRA
 ## Minhas Tecnologias:

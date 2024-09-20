@@ -1,6 +1,5 @@
 ### Olá! eu sou @MeteOnbala 👋
-## Qual faculdade Curso?:
-sistemas de informação na Universidade Federal Rural da Amazônia (UFRA) ![Foto](https://th.bing.com/th/id/R.9db7e9a2b8b18523546bbefa9851e65f?rik=%2bB6hd0WpYBeGsQ&pid=ImgRaw&r=0)
+
 ## Minhas Tecnologias:
 [![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 ## Meus contatos:
